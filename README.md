@@ -1,8 +1,11 @@
 
 # Roommate Conflict Calming System
-## Project Title:   Roommate Conflict Calming System
-## Team Members:   Subin Lee, Jeongmin Lee, Hannah Park
-## YouTube Video Link:  https://youtu.be/Mkrjj4jm3fM
+## Project Title:
+Roommate Conflict Calming System
+## Team Members:
+Subin Lee, Jeongmin Lee, Hannah Park
+## YouTube Video Link:
+https://youtu.be/Mkrjj4jm3fM
 
 
 ## Diagrammatic Analysis of the Digital Ecosystem   
