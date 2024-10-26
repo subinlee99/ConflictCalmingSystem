@@ -4,19 +4,22 @@
 ## Team Members:   Subin Lee, Jeongmin Lee, Hannah Park
 ## YouTube Video Link:  https://youtu.be/Mkrjj4jm3fM
 
-![image](https://github.com/user-attachments/assets/8ffc7655-d24f-4763-96b4-eb1f92ba42b4)
 
-## Diagrammatic Analysis of the Digital Ecosystem  
-![image](https://github.com/user-attachments/assets/ba84827b-8a81-4cfa-b9c8-cfde9354efa2)
+## Diagrammatic Analysis of the Digital Ecosystem   
+![image](https://github.com/user-attachments/assets/f842087b-2e5f-43b4-b42b-57e3d5f1a458)
+
 
 ## my role : technical part 
 
 ## diagrams
 Overall Flow
-![image](https://github.com/user-attachments/assets/e455a4d2-6d9e-4f15-96a5-7349bc82da27)
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/6a318df1-71b1-43e1-8641-89a6f352b5b8">
 
 Machine Learning Flow
-![image](https://github.com/user-attachments/assets/b1dc4046-11c2-4917-896c-3a9ac42af39f)
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/fe55cc36-6ca7-49ee-981a-68fd42a48fe9">
 
 Device 1 code flow
-![image](https://github.com/user-attachments/assets/4291707b-6c23-47ce-b98b-e58148c6abf9)
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/0ab4235a-3855-4948-8bbf-f7d38567d7cb">
+
+Device 2 code flow
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/6bf60416-cdbd-49c7-88c6-24be66947fb3">
